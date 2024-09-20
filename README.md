@@ -3,7 +3,7 @@
  
  With Ziggy Rafiq's guide, Azure Functions users can improve performance and take advantage of modern language features by migrating to C# 12 with .NET 8 Isolated Processes.
  
-**[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/with-code-examples-learn-how-to-develop-asp-net-core-c-sharp-12-using-domain-driven/)**
+**[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/a-comprehensive-guide-to-migrating-azure-functions-c-sharp-to-c-sharp-12-with-net-8-isola/)**
 
 ### Getting Started
 Clone this repository to your local machine to get started using the resources:
