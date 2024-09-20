@@ -1,0 +1,11 @@
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\bin\Debug\net8.0\AzureFunctionsApp.Shared.deps.json
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\bin\Debug\net8.0\AzureFunctionsApp.Shared.dll
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\bin\Debug\net8.0\AzureFunctionsApp.Shared.pdb
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\AzureFunctionsApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\AzureFunctionsApp.Shared.AssemblyInfoInputs.cache
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\AzureFunctionsApp.Shared.AssemblyInfo.cs
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\AzureFunctionsApp.Shared.csproj.CoreCompileInputs.cache
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\AzureFunctionsApp.Shared.dll
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\refint\AzureFunctionsApp.Shared.dll
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\AzureFunctionsApp.Shared.pdb
+I:\GitHub\AzureFunctionsMigration-CSharp12-DotNet8-Isolated\AzureFunctionsMigration\AzureFunctionsApp.Shared\obj\Debug\net8.0\ref\AzureFunctionsApp.Shared.dll
